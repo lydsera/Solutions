@@ -2,8 +2,10 @@
 
 ## LeetCode
 
-[53 最大子数组和](LeetCode/53.cpp)  
-[217 存在重复元素](LeetCode/217.cpp)  
+[1 Two Sum](LeetCode/1.cpp)  
+[53 Maximum Subarray](LeetCode/53.cpp)  
+[88 Merge Sorted Array](LeetCode/88.cpp)  
+[217 Contains Duplicate](LeetCode/217.cpp)  
 
 ## PAT(甲级)
 
