@@ -37,3 +37,6 @@
 
 # pdf
 *.pdf
+
+# tmp
+tmp.cpp
